@@ -3,9 +3,9 @@ applications:
 - name: redis-demo-bittrex
   memory: 512M
   host: redis-demo-bittrex
-  domain: your-domain.com
+  domain: appsgcp.arg-pivotal.com
   env:
     BITTREX_API_KEY: f733ccd3534e493cabe026d18dfed731
     BITTREX_SECRET_KEY: 5551e5b633af4d19bf45eef1821a2981
   services:
-  - my-redis-service
+  - first-redis
