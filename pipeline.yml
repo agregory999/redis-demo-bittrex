@@ -2,7 +2,7 @@ resources:
 - name: redis-demo-repo
   type: git
   source:
-    uri: https://github.com/colrich/redis-demo-bittrex
+    uri: https://github.com/agregory999/redis-demo-bittrex
 - name: resource-deploy-web-app
   type: cf
   source:

@@ -7,3 +7,5 @@ To use:
 5. visit a market summary page at https://my-app.cfapps.io/summary/btc-eth
 
 Incorporates code from https://github.com/platelminto/java-bittrex
+
+AG: Forked from Craig
