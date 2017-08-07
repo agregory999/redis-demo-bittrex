@@ -1,3 +1,12 @@
+target
+data
+.classpath
+.project
+.settings
+src/main/resources/elasticsearch.yml
+credentials.yml
+
+*~
 # Compiled class file
 *.class
 
