@@ -7,7 +7,6 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Component;
-// Added Agregory 08/04/2017
 import org.springframework.util.StringUtils;
 
 import io.pivotal.cctp.bittrex.Bittrex;
